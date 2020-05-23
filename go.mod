@@ -1,3 +1,3 @@
-module github.com/xavierthiago/async-fibonacci
+module github.com/xavierthiago/training/async/fibonacci
 
 go 1.12
